@@ -1,5 +1,4 @@
 #ifndef DOUBLYLINKEDLIST_CPP
-#ifndef DOUBLYLINKEDLIST_CPP
 #define DOUBLYLINKEDLIST_CPP
 
 #include "doublylinkedlist.h"
